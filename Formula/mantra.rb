@@ -1,8 +1,8 @@
 class Mantra < Formula
   desc "Keyboard-first PostgreSQL terminal IDE"
   homepage "https://github.com/Nabwinsaud/mantra"
-  url "https://github.com/Nabwinsaud/mantra/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "c3a9ca7ca3291492ee559e6447a9ed55e98af3525c877b3b8223bb5434dd51c2"
+  url "https://github.com/Nabwinsaud/mantra/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "ed461285528f815ca3e9f54db8e5d05805aee7df7774c0aaee955cc45273aefd"
   license "MIT"
   head "https://github.com/Nabwinsaud/mantra.git", branch: "main"
 
